@@ -8,7 +8,6 @@ import Footer from '../Footer';
 : 라우트 계층 구조에서 상위 라우트의 자식 컴포넌트 렌더링 역할
 - Outlet이 위치한 곳에 자식 라우트가 표시
 - 상위 라우트의 레이아웃을 공통으로 사용 + 자식 라우트만의 컴포넌트를 렌더링
-
 */
 
 export default function Container() {
